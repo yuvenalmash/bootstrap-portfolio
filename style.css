@@ -1,0 +1,11 @@
+.headline {
+  background-image: url("images/desktop-size/Illustration-header.png");
+  background-position: top right;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 90vh;
+}
+
+.headline-text-container {
+  width: 50%;
+}
