@@ -19,11 +19,9 @@
 
 .line-2 {
   border: 1px solid #fff;
-  
 }
 
 .card {
-  width: 369px;
   height: 435px;
   background-repeat: no-repeat;
 }
@@ -48,9 +46,19 @@
   background-image: url("images/desktop-size/illustration-about me.png");
   background-repeat: no-repeat;
   background-position: right top;
-  height: 591px;
 }
 
 .about-text {
-  width: 50%
+  width: 50%;
+}
+
+.skill-container ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skill-container img {
+  width: 18px;
+  height: 18px;
 }
