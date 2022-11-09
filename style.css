@@ -9,3 +9,10 @@
 .headline-text-container {
   width: 50%;
 }
+
+.line {
+  border: 1px solid #212121;
+  background-color: #212121;
+  width: 60%;
+  height: 0.5px;
+}
