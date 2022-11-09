@@ -16,3 +16,41 @@
   width: 60%;
   height: 0.5px;
 }
+
+.line-2 {
+  border: 1px solid #fff;
+  
+}
+
+.card {
+  width: 369px;
+  height: 435px;
+  background-repeat: no-repeat;
+}
+
+.card-1 {
+  background-image: url("images/desktop-size/other-content/Img-Placeholder-2.png");
+}
+
+.card-2 {
+  background-image: url("images/desktop-size/other-content/Img-Placeholder-3.png");
+}
+
+.card-3 {
+  background-image: url("images/desktop-size/other-content/Img-Placeholder-4.png");
+}
+
+.card-4 {
+  background-image: url("images/desktop-size/other-content/Mask-Group.png");
+}
+
+.about {
+  background-image: url("images/desktop-size/illustration-about me.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  height: 591px;
+}
+
+.about-text {
+  width: 50%
+}
