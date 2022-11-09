@@ -21,6 +21,10 @@
   border: 1px solid #fff;
 }
 
+.feature-img {
+  width: 50%;
+}
+
 .card {
   height: 435px;
   background-repeat: no-repeat;
@@ -61,4 +65,9 @@
 .skill-container img {
   width: 18px;
   height: 18px;
+}
+
+.contact-section p {
+  font-size: 40px;
+  font-weight: 700;
 }
